@@ -1,0 +1,3 @@
+# Javascript Basics
+
+This repository includes the samll projects with javascript basic selectors, eventlisteners etc...
